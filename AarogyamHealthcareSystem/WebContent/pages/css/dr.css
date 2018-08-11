@@ -1,0 +1,433 @@
+/* CSS Document */
+* {
+	padding: 0px;
+	margin: 0px;
+}
+
+body {
+	margin: 0px;
+	padding: 0px;
+	background: url(../images/doctor/bg.jpg) repeat-x #fdf5e8;
+}
+
+.kaushik {
+	margin: 0px;
+	padding: 0px;
+	background: #a5a5a5;
+}
+
+a {
+	margin: 0px;
+	padding: 0px;
+}
+
+a img {
+	margin: 0px;
+	padding: 0px;
+	border: none;
+}
+
+.clear {
+	clear: both;
+}
+
+div,ul,li h3 {
+	margin: 0px;
+	padding: 0px;
+}
+
+#main {
+	width: 879px;
+	height: auto;
+	margin: 0px auto;
+}
+
+#container {
+	width: 879px;
+	height: auto;
+	float: left;
+	display: block;
+	padding: 0 12px 0 12px;
+	background: url(../images/doctor/contain_bg.jpg) repeat-x;
+}
+
+.top {
+	width: 879px;
+	height: 45px;
+	float: left;
+	background: url(../images/doctor/top.jpg) repeat-x;
+	margin: 0 0 2px 0;
+}
+
+.logo {
+	width: 200px;
+	height: auto;
+	float: left;
+	padding: 2px 0 0 28px;
+}
+
+.header_right {
+	width: 260px;
+	height: auto;
+	float: right;
+	padding: 8px 10px 0 0;
+}
+
+.icon2 {
+	width: 20px;
+	height: auto;
+	float: left;
+	padding: 0 10px 0 0;
+}
+
+.p1 {
+	background: url(../images/doctor/signout.jpg) no-repeat;
+	width: 60px;
+	height: 15px;
+	float: right;
+	font-family: arial;
+	text-align: left;
+	font-size: 12px;
+	font-weight: bold;
+	line-height: 15px;
+	color: #22252c;
+	text-decoration: none;
+	padding: 5px 10px 0 30px;
+}
+
+.p1 a {
+	text-decoration: none;
+	color: #ccac1d;
+}
+
+.p1 a:hover {
+	text-decoration: underline;
+	color: #bd4a2f;
+}
+
+.p_contain {
+	width: 879px;
+	height: auto;
+	float: left;
+	padding: 14px 0 14px 0;
+}
+
+.p_contain_left {
+	width: 160px;
+	height: auto;
+	float: left;
+	padding: 0 4px 0 0;
+}
+
+.p_contain_right {
+	width: 709px;
+	height: auto;
+	float: left;
+}
+
+.drtop {
+	background: url(../images/doctor/dr2.jpg) no-repeat;
+	width: 147px;
+	height: 11px;
+	float: left;
+}
+
+.manageaccount_middle {
+	width: 158px;
+	height: auto;
+	float: left;
+	background: url(../images/doctor/manage_account_m.jpg) repeat-y;
+	padding: 0 0 65px 0;
+}
+
+.manageaccount_middle ul {
+	width: 154px;
+	height: auto;
+	float: left;
+	list-style-type: none;
+	padding: 0 0 0 4px;
+}
+
+.manageaccount_middle ul li {
+	width: 154px;
+	height: 30px;
+	float: left;
+	font-family: arial;
+	text-align: left;
+	font-size: 12px;
+	font-weight: bold;
+	line-height: 22px;
+	color: #ffffff;
+	text-decoration: none;
+}
+
+.manageaccount_middle ul li a {
+	text-decoration: none;
+	color: #000000;
+	display: block;
+	width: 146px;
+	height: 25px;
+	padding: 0 0 0 10px;
+}
+
+.manageaccount_middle ul li a:hover {
+	background: url(../images/doctor/arrow.png) no-repeat;
+	width: 146px;
+	height: 25px;
+	color: #000000;
+	text-decoration: none;
+	padding: 0 0 0 10px;
+}
+
+.manageaccount_middle ul li a.active {
+	background: url(../images/doctor/arrow.png) no-repeat;
+	width: 146px;
+	height: 25px;
+	color: #000000;
+	text-decoration: none;
+	padding: 0 0 0 10px;
+}
+
+.manageaccount_down {
+	background: url(../images/doctor/manage_account_down.jpg) no-repeat;
+	width: 156px;
+	height: 14px;
+	float: left;
+}
+
+.p_right_top {
+	width: 709px;
+	height: auto;
+	float: right;
+}
+
+.p_right_text {
+	width: 255px;
+	height: auto;
+	float: left;
+	font-family: arial;
+	text-align: right;
+	font-size: 15px;
+	font-weight: bold;
+	line-height: 34px;
+	color: #65450d;
+	text-decoration: none;
+	padding: 0 20px 0 0;
+}
+
+.p_right_text a {
+	color: #65450d;
+	text-decoration: none;
+}
+
+.p_right_text a:hover {
+	color: #838248;
+	text-decoration: none;
+}
+
+.p_right_contain {
+	background: #fcfbda;
+	width: 675px;
+	height: auto;
+	float: left;
+	padding: 10px;
+	border: 1px solid #888632;
+}
+
+.p2 {
+	font-family: arial;
+	text-align: left;
+	font-size: 12px;
+	font-weight: normal;
+	line-height: 24px;
+	color: #1b1b1b;
+	text-decoration: none;
+}
+
+.footer {
+	background: url(../images/doctor/footer.jpg) no-repeat;
+	width: 860px;
+	height: 55px;
+	float: left;
+	font-family: arial;
+	text-align: left;
+	font-size: 11px;
+	font-weight: bold;
+	line-height: 50px;
+	color: #a78b09;
+	text-decoration: none;
+	padding: 2px 0 0 19px;
+	margin: 0 0 20px 0;
+}
+
+.footer a {
+	color: #a78b09;
+	text-decoration: none;
+}
+
+.footer a:hover {
+	color: #949126;
+	text-decoration: underline;
+}
+
+.dr_button {
+	width: 862px;
+	height: auto;
+	float: left;
+}
+
+.dr_button ul {
+	width: 862px;
+	height: auto;
+	float: left;
+	list-style-type: none;
+}
+
+.dr_button ul li {
+	width: 114px;
+	height: 32px;
+	float: left;
+	font-family: arial;
+	text-align: center;
+	font-size: 12px;
+	font-weight: bold;
+	line-height: 30px;
+	display: block;
+	color: #8e6011;
+	text-decoration: none;
+}
+
+.dr_button ul li a {
+	background: url(../images/doctor/button.jpg) no-repeat;
+	text-decoration: none;
+	display: block;
+	color: #8e6011;
+	width: 114px;
+	height: 32px;
+}
+
+.dr_button ul li a:hover {
+	background: url(../images/doctor/button_hover.jpg) no-repeat;
+	width: 114px;
+	height: 32px;
+	display: block;
+	color: #fcfcda;
+	text-decoration: none;
+}
+
+.dr_button ul li a.active {
+	background: url(../images/doctor/button_hover.jpg) no-repeat;
+	width: 114px;
+	height: 32px;
+	color: #fcfcda;
+	display: block;
+	text-decoration: none;
+}
+
+.dr_contain_main {
+	background: #aaa855;
+	width: 862px;
+	height: auto;
+	float: left;
+	padding: 6px;
+	border: 1px solid #94924b;
+	border-top: none;
+}
+
+.loginsmall {
+	font-family: verdana;
+	font-size: 12px;
+	font-weight: normal;
+	color: #2C616B;
+	float: left;
+}
+.dr2{
+    color: #000;
+    font-family: arial;
+    font-size: 12px;
+    font-weight: bold;
+    height:20px;
+    line-height: 16px;
+    text-align: left;
+    text-decoration: none;
+    }
+ .dr4{
+    font-family: arial;
+    font-size: 12px;
+    font-weight: bold;
+    text-align: left;
+    color: #8E6011;
+    text-decoration: none;
+    padding:0 0 0 10px;
+    }
+ .dr4 a{
+    color: #8E6011;
+    text-decoration: none;
+    }
+    .dr4 a:active{
+    color: #8E6011;
+    text-decoration: none;
+    }
+     .dr4 a:hover{
+    color: #8E6011;
+    text-decoration: none;
+    }
+    .dr6{
+    background: url(../images/doctor/sign_blank.jpg) no-repeat;
+    border:none;
+    width: 69px;
+	height:25px;
+	font-family: arial;
+	text-align: center;
+	font-size: 12px;
+	font-weight: bold;
+	line-height: 25px;
+	color: #000000;
+	text-decoration: none;
+    }
+    .dr7{
+    width: 100px;
+	float:left;
+	height:25px;
+	text-align:right;
+    padding:5px 0 0 145px;
+    }
+  .dr8{
+    font-family: arial;
+    font-size: 12px;
+    font-weight: bold;
+    text-align: left;
+    color: #D72113;
+    text-decoration: none;
+ 
+    }
+    .from5{
+	border: 1px solid #ababab;
+	width: 30px;
+	height: 20px;
+	padding: 2px;
+	margin: 0 4px 5px 0;
+	}
+
+	.from6{
+
+	border: 1px solid #ababab;
+	width: 60px;
+	height: 20px;
+	padding: 2px;
+	margin: 0 4px 5px 0;
+	}
+	.sub29{
+	font-family: arial;
+	font-size: 11px;
+	font-weight: bold;
+	line-height: 18px;
+	color: #b51017;
+	text-decoration: none;
+	}
+	.error{
+	color: red;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	}
+    

@@ -1,0 +1,123 @@
+.tab {  font-family: Tahoma, Arial, Helvetica; text-decoration: none; font-size: 9pt; color: #3c3c3c; font-weight: bold}
+.tab:hover {  font-family: tahoma, arial, helvetica; font-size: 9pt; font-weight: normal; color: #000000; text-decoration: underline}
+
+.navbarbg {background-color: #ccd7e0}
+.navtopbg {background-image: url(images/topDimTabBg.gif)}
+.navtopindexedbg {background-image: url(images/topTabBg.gif)}
+.navtop       {  font-family: tahoma, arial, helvetica; font-size: 9pt; font-weight: bold; color: #4f6070; text-decoration: none; height: 21px}
+.navtop:hover {  font-family: tahoma, arial, helvetica; font-size: 9pt; font-weight: bold; color: #4f6070; text-decoration: underline; height: 21px}
+.navtopindexed       {  font-family: tahoma, arial, helvetica; font-size: 9pt; font-weight: bold; color: #234a82; text-decoration: none; height: 21px}
+.navtopindexed:hover {  font-family: tahoma, arial, helvetica; font-size: 9pt; font-weight: bold; color: #4f6070; text-decoration: underline; height: 21px}
+.navtopwelcome { font-family: tahoma, arial, helvetica; font-size: 14px; font-weight: bold; color: #FFFFFF; text-decoration: none }
+
+.navtopsub        {  font-family: tahoma, arial, helvetica; font-size: 9pt; font-weight: normal; color: #013d74; text-decoration: none; background-image: url(images/header-Bg.gif)}
+.navtopsub:hover  {  font-family: tahoma, arial, helvetica; font-size: 9pt; font-weight: normal; color: #013d74; text-decoration: underline; background-image: url(images/header-Bg.gif)}
+.navtopsubindexed {  font-family: tahoma, arial, helvetica; font-size: 9pt; font-weight: bold; color: #013d74; text-decoration: none; background-image: url(images/header-Bg.gif)}
+
+.navleft1bg      {  background-color: #ccd7e0}
+.navleft1        {  font-family: tahoma, arial, helvetica; font-size: 9pt; font-weight: normal; color: #294369; text-decoration: none}
+.navleft1:hover  {  font-family: tahoma, arial, helvetica; font-size: 9pt; font-weight: normal; color: #294369; text-decoration: underline}
+.navleft1indexed {  font-family: tahoma, arial, helvetica; font-size: 9pt; font-weight: bold; color: #013d74; text-decoration: none; background-color: #a3c3df}
+.navlefthead       {  font-family: Tahoma, Arial, Helvetica; font-size: 9pt; font-weight: bold; color: #2577B1; text-decoration: none}
+.navlefthighlight1 {  font-family: Tahoma, Arial, Helvetica; font-size: 9pt; font-weight: normal; color: #343434; text-decoration: none; background-color: #eaeff5}
+.navleftbottombg   {background-color: #eaeff5}
+.navleftstatushead {  font-family: Tahoma, Arial, Helvetica; font-size: 9pt; font-weight: bold; color: #2577B1; text-decoration: none}
+
+.globallink {  font-family: Arial, Helvetica; font-size: 9pt; font-weight: normal; color: #ffffff; text-decoration: none }
+.globallink:hover {  font-family: Arial, Helvetica; font-size: 9pt; font-weight: normal; color: #ffffff; text-decoration: underline}
+.productname {  font-family: Arial, Helvetica; text-decoration: none; font-size: 13pt; color: #F7F4EF; font-weight: bold }
+.footer {  font-family: Arial, Helvetica; text-decoration: none; font-size: 9pt; color: #FFFFFF; font-weight: normal; text-align: center; height: 25px; background-color: #1963a9 }
+
+.smallprompt {  font-family: Tahoma, Arial, Helvetica, sans-serif; font-size: 9pt; font-weight: bold; color: #3c3c3c; text-decoration: none; text-transform: none}
+.errorprompt {  font-family: Tahoma, Arial, Helvetica, sans-serif; font-size: 9pt;color:#ed1c24; font-weight:normal}
+.normal {  font-family: Tahoma, Arial, Helvetica, sans-serif; font-size: 9pt; color: 3c3c3c}
+.pageheadercat {color:3a5a87;font-size:9pt;font-family:Arial, Helvetica; font-weight: bold;}
+.appname {  font-family: Arial, Helvetica, sans-serif; font-size: 17px; font-weight: bolder; color: #FFFFFF; text-decoration: none}
+.logo360 {  font-family: Arial, Helvetica, sans-serif; font-size: 28px; font-weight: bolder; color: #CC0033; text-decoration: none}
+.logoCommerce { font-family: Arial, Helvetica, sans-serif; font-size: 28px; font-weight: bolder; color: #0000FF; text-decoration: none }
+.TM {  font-family: Arial, Helvetica, sans-serif; font-size: xx-small; font-weight: bolder; color: #0000FF; text-decoration: none}
+.heading3 {  font-family: Tahoma, Arial, Helvetica, sans-serif; font-size: 9pt; font-weight: bold; color: #3a5a87; text-decoration: none}
+.tablename {  font-family: Arial, Helvetica, sans-serif; font-size: 16px; font-weight: bold; color: #666666; text-decoration: none; text-transform: none}
+.tableheadrow {  background-color: #cfe0f1; font-family: Tahoma; font-size: 9pt; font-weight: bold; color: #3c3c3c; text-align: center}
+/* Added below two classes for GD Order S2S-112 */
+.gdorderborder{ border-right-color: #000000; border-right-style: solid; border-right-width: 1px}
+.gdorderouterlining{ border-left-color: #000000; border-left-style: solid; border-left-width: 1px }
+/* Finish changes for GD Order S2S-112 */
+.tableheadroworder {  border-color: #a9cce3; border: 1}
+.tableheadrowgold {  background-color: #7246D0; font-family: Tahoma; font-size: 11px; font-weight: bold; color: #FFFFFF; text-align: center}
+.fieldname { font-family: Tahoma, Arial, Helvetica, sans-serif; font-size: 9pt ; font-weight: bold}
+.data { font-family: Tahoma, Arial, Helvetica, sans-serif; font-size: 9pt ; font-weight: normal}
+.calendar { font-family: Tahoma, Arial, Helvetica, sans-serif; font-size: 9pt ; font-weight: normal}
+.passworddata { font-family: Tahoma, Arial, Helvetica, sans-serif; font-size: 9pt ; font-weight: normal}
+.journalmockup {  font-family: "Courier New", Courier, mono; font-size: 12px; font-style: normal; line-height: normal; font-weight: normal; font-variant: normal; text-transform: none}
+.tableoutline { border: #99bedc; border-style: solid; border-top-width: thin; border-right-width: thin; border-bottom-width: thin; border-left-width: thin}
+.errortableoutline {  border: #eaeff5; border-style: solid; border-top-width: thin; border-right-width: thin; border-bottom-width: thin; border-left-width: thin}
+.messagetableoutline {  border: #006600; border-style: solid; border-top-width: thin; border-right-width: thin; border-bottom-width: thin; border-left-width: thin}
+.fieldformat { font-family: Arial, Helvetica, sans-serif; font-size: 10px; font-weight: normal}
+.heading2 { color:#3a5a87;font-size:12pt;font-family:Arial, Helvetica; ; font-weight: bold}
+.breadcrumbs { font-family: Arial, Helvetica; font-size: 9pt; font-weight: normal; color: #2b7c92; text-decoration: none }
+.messagetext { color:#3a5a87;font-size:9pt;font-family:Tahoma, Arial, Helvetica; ; font-weight: bold }
+.greenmessagetext { color:#009900;font-size:13px;font-family:Arial, Helvetica; ; font-weight: bold }
+.errortext { color:#ed1c24;font-size:9pt;font-family:Tahoma, Arial, Helvetica; ; font-weight: normal }
+.normalbullet {  font-family: Arial, Helvetica, sans-serif; font-size: 13px; font-style: normal; list-style-type: disc; list-style-position: inside; list-style-image: none; top: auto; clip:  rect(   ); line-height: 18pt}
+.normalbulletsub {  font-family: Arial, Helvetica, sans-serif; font-size: 13px; list-style-type: circle; line-height: 18px}
+.normalbulletsubsub { font-family: Arial, Helvetica, sans-serif; font-size: 13px; list-style-type: square; line-height: 18px }
+.normalsmall {  font-family: Tahoma, Arial, Helvetica, sans-serif; font-size: 12px}
+.normalsmallindent { font-family: Tahoma, Arial, Helvetica, sans-serif; font-size: 12px ; text-indent: 25pt; text-align: left}
+.fieldname_dis { font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: #888888}
+/* Style for tree item text */
+.t0i { font-family: Tahoma, Arial, Helvetica, sans-serif; font-size: 9pt; color: #000000; background-color: #ffffff; text-decoration: none; }
+/* Style for tree item image */
+.t0im { border: 0px; }
+/* inventory styles */
+.headerRight { font-family: Arial, Helvetica, sans-serif; font-size: 13px; text-align: right; font-weight: bold; width: 50%; padding-right: 10px; }
+.headerLeft { font-family: Arial, Helvetica, sans-serif; font-size: 13px; text-align: left; padding-left: 10px; }
+.lineItem { font-family: Arial, Helvetica, sans-serif; font-size: 13px; text-align: center; padding-left: 5px; padding-right: 5px; }
+.normalLeft {  font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; text-align: left;}
+.submitButtons {border: thin #99bedc solid; padding: 6px; float: right}
+/* Thin blue lines for table cell borders */
+.normalVertLines {font-family: Arial, Helvetica, sans-serif; font-size: 13px; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-right-style: solid; border-top-color: #3366CC; border-right-color: #3366CC; border-bottom-color: #3366CC; border-left-color: #3366CC; border-bottom-style: solid; border-top-style: none; border-left-style: none; }
+.innertableheader { color:#3366CC;font-size:13px;font-family:Arial, Helvetica; ; font-weight: bold }
+.selectlist {font-family: Tahoma, Arial, Helvetica, sans-serif; font-size: 9pt; color: 3c3c3c}
+/* Swan button definitions to be used for phase 2 of the update.  The style should be renamed.  Using this name to avoid any collisions. */
+.swanButton {
+   font-family: Tahoma, Arial, Helvetica;
+   font-size: 9pt;
+   font-weight: bold;
+   color: #586073;
+   background-color: #c9e5ec;
+   background-image: btn-bg.gif;
+   background-repeat: repeat-x;
+   border-top:    thin solid #a5a9b6;
+   border-left:   thin solid #a5a9b6;
+   border-bottom: thin solid #7b8194;
+   border-right:  thin solid #7b8194;
+   }
+.swanButtonDisabled {
+   font-family: Tahoma, Arial, Helvetica;
+   font-size: 9pt;
+   font-weight: bold;
+   color: #7e8694;
+   background-color: #ffffff;
+   background-image: dis-btn-bg.gif;
+   background-repeat: repeat-x;
+   border: thin solid #a5a9b6;
+   }
+
+/* Added below style for GD Order S2S-112(Tr font red if status = 1 and short shipped = true) */
+table tr.font-red td {
+   color: #ff0000;
+}
+/* Finished changes for GD Order S2S-112 */
+
+/* Added below style for GD Order S2S-235(DEV of Incoming Orders screen (detail view)) */
+/* table-odd-even */ 
+
+.odd-background { 
+	background: #ccc;
+}
+.link{
+	color: #ff0000;
+}
+.texttab{ font-family: Tahoma, Arial, Helvetica; text-decoration: none; font-size: 9pt; color: #3c3c3c; font-weight: bold; align:right}
+/* Finished changes for GD Order S2S-235 (DEV of Incoming Orders screen (detail view))*/
